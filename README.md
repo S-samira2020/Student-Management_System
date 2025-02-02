@@ -10,8 +10,7 @@
 <img src="img2.png"
      alt="Image"/>
 
-<img src="img3.png"
-     alt="Image"/>
+
 
 
 
